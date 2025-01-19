@@ -1,5 +1,5 @@
 {
-  "name": "cdWeek1",
+  "name": "cdWeek2Part1",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
     "url": "https://github.com/Angel-Raj/AngelRaj/issues"
   },
   "homepage": "https://github.com/Angel-Raj/AngelRaj#readme",
-  "description": "Repository for Week 1",
+  "description": "Repository for Week 2",
   "devDependencies": {
     "lite-server": "^2.6.1"
   },
